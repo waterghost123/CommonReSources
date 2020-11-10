@@ -1,0 +1,12 @@
+com\itcase\service\IPermissionService.class
+com\itcase\service\impl\UserServiceImpl.class
+com\itcase\service\IProductService.class
+com\itcase\service\impl\PermissionServiceImpl.class
+com\itcase\service\impl\RoleServiceImpl.class
+com\itcase\service\impl\OrdersServiceImpl.class
+com\itcase\service\IUserService.class
+com\itcase\service\impl\SysLogServiceImpl.class
+com\itcase\service\IRoleService.class
+com\itcase\service\ISysLogService.class
+com\itcase\service\impl\ProductServiceImpl.class
+com\itcase\service\IOrdersService.class

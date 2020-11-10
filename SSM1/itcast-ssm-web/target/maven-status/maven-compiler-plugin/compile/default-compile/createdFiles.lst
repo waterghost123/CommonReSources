@@ -1,0 +1,7 @@
+com\itcase\contorl\ProductControl.class
+com\itcase\contorl\RoleController.class
+com\itcase\contorl\LogAop.class
+com\itcase\contorl\SysLogController.class
+com\itcase\contorl\PermissionControl.class
+com\itcase\contorl\UserController.class
+com\itcase\contorl\OrdersController.class

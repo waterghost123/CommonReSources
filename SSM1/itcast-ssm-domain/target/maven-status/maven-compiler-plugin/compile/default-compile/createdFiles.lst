@@ -1,0 +1,8 @@
+com\itcase\domain\Role.class
+com\itcase\domain\Product.class
+com\itcase\domain\Orders.class
+com\itcase\domain\Traveller.class
+com\itcase\domain\UserInfo.class
+com\itcase\domain\SysLog.class
+com\itcase\domain\Member.class
+com\itcase\domain\Permission.class
